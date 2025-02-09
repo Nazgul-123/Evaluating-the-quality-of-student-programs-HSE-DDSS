@@ -1,5 +1,0 @@
-TELEGRAM_TOKEN = "8143438153:AAFmZhgXygBWPmpVwP0cR-K4uyJZ6Gpky2w"
-GITHUB_TOKEN = "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"
-DB_PATH = "code_evaluation.db"
-USERNAME = "admin"
-PASSWORD = "securepassword"
