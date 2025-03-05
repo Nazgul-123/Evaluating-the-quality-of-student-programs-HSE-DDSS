@@ -152,3 +152,6 @@ networks:
 ✔️ **Код покрыт автотестами.**  
 ✔️ **Линтеры подключены.**  
 ✔️ **Один из микросервисов (Analysis Service) является потоковым обработчиком задач (consumer).**  
+
+![image](https://github.com/user-attachments/assets/b7c549b2-6a70-4cf4-b99a-1e273e34b144)
+
