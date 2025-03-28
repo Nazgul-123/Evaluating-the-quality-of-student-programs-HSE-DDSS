@@ -19,6 +19,7 @@
    - Автоматическое тестирование:  
      - Unit (`pytest`).  
      - Integration (с `docker-compose`). 
+
 ![2025-03-29_01-35-41](https://github.com/user-attachments/assets/f800c3ad-1378-4040-997a-3b7472eed976)
 
    📄 **Файл CI:** [.github/workflows/ci.yaml]
@@ -35,6 +36,7 @@
       - GitHub Service: github_service_1, github_service_2
       - Балансировка между репликами в nginx.conf
    📄 **Файлы:** [docker-compose.yml],  [nginx.conf]
+
 ![Снимок экрана 2025-03-29 013840](https://github.com/user-attachments/assets/09da507d-fcff-4504-b389-d603a8713efe)
 
 ---
